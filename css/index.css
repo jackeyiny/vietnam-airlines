@@ -1,0 +1,60 @@
+.logo img{
+    width: 50%;
+    margin-left: 40%;
+    padding-top: 10px;
+    float: left;
+}
+.skyteam img{
+    width: 6%;
+    padding-top: 18px;
+    margin-left: 1%;
+}
+.right-top img{
+    width: 15%;
+    margin-left: 25%;
+    padding-top: 10px;
+    margin-right: 1%;
+    float: left;
+}
+.right-top p{
+    padding-top: 9px;
+    font-size: 12px;
+    
+}
+.right-top i{
+    padding:5px;
+    color:rgb(222, 177, 53);
+}
+.menu-parent li{  
+    float:left;
+    line-height: 40px;
+    list-style-type:none;
+    text-indent: 10px;
+    border-radius: 3px;
+}
+.menu-parent li>a{
+    color:black;
+    font-size: 16px;
+    text-decoration:none;
+    padding-right: 10px;
+}
+.menu-parent li:hover{
+    background-color: #166987;
+}
+.menu-parent li:hover>a{
+    color: white;
+}
+.menu li{  
+    line-height: 40px;
+    list-style-type:none;
+    border-radius: 3px;
+}
+.menu li>a{
+    color: black;
+}
+.sp{
+    border: 1px solid gray;
+    border-top: none;
+}
+
+

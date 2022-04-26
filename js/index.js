@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $("#my1").hide();
+    $("#btn1").mouseenter(function(){
+        $("#my1").show();
+    });
+    $("#my1").mouseleave(function(){
+        $("#my1").hide();
+    });
+});
